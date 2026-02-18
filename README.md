@@ -1,16 +1,19 @@
-SQL Data Analysis Practice
+# SQL Data Analysis Practice
 
-This repository contains SQL queries commonly used in data analytics interviews.
+This repository contains basic SQL queries commonly used in data analytics and business intelligence.
 
-Covered Concepts:
+## Concepts Covered
 - INNER JOIN
 - LEFT JOIN
 - GROUP BY
-- Aggregations
+- Aggregations (SUM, COUNT)
 - RANK()
 - ROW_NUMBER()
 - LAG()
 - Window Functions
 
-Purpose:
-To strengthen SQL problem-solving skills for data analyst and business intelligence roles.
+## Purpose
+To strengthen SQL problem-solving skills for Data Analyst and Business Intelligence roles.
+
+## File
+- data_analysis_queries.sql → Contains structured SQL practice queries

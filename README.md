@@ -16,4 +16,5 @@ This repository contains basic SQL queries commonly used in data analytics and b
 To strengthen SQL problem-solving skills for Data Analyst and Business Intelligence roles.
 
 ## File
-- data_analysis_queries.sql → Contains structured SQL practice queries
+- data_analysis_queries.sql -> Contains structured SQL practice queries
+- avanced-sql-queries.sql -> Contains slightly advanced SQL practice queries
